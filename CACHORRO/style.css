@@ -1,0 +1,28 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 20px;
+}
+
+img {
+  max-width: 90%;
+  height: auto;
+  border-radius: 10px;
+  margin-top: 15px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  margin-top: 10px;
+  cursor: pointer;
+  background-color: #000000;
+  color: white;
+
+}
+
+button:hover {
+  background-color: #67ccbb;
+}
+
+/*o butão tem um hover que muda a cor de fundo quando eu passo o mause em cimae*/
